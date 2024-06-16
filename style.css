@@ -93,3 +93,9 @@
   #retryButton {
     display: none;
   }
+  footer{
+    margin-top: 1rem;
+    color: #314755;
+    font-size: 1rem;
+    font-variant: small-caps;
+  }
